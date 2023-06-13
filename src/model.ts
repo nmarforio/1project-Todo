@@ -5,4 +5,3 @@ interface Todo {
 }
 
 export default Todo;
- 
