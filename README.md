@@ -1,3 +1,9 @@
+I decide to follow some link with 80+ ideas to develope and to improve my skills.
+This project is the first one where I used Typescript with React.
+Stay Tuned :D
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
